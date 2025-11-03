@@ -1,4 +1,4 @@
-# Multi-threaded Mandelbrot Set Renderer
+# Multithreaded Mandelbrot Set Renderer
 
 A parallel implementation of the Mandelbrot Set renderer in C using POSIX threads, demonstrating producer-consumer patterns with mutexes, semaphores, and barriers.
 
